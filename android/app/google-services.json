@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "511284616889",
+    "project_id": "tiktokclone-ae9cb",
+    "storage_bucket": "tiktokclone-ae9cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511284616889:android:69b832832aff4c01fd4568",
+        "android_client_info": {
+          "package_name": "com.example.tiktokappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511284616889-p45th5g4fjgvjba44m2bnbqm4dkobodt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiktokappclone",
+            "certificate_hash": "f40e3d3a643891488f08981cd15f5a2c804ac8e7"
+          }
+        },
+        {
+          "client_id": "511284616889-22lbenq39oat23vle2ltn4hi7ore5840.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBank7rhAST02_xs6sKCTKlU5tfgTJotl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511284616889-22lbenq39oat23vle2ltn4hi7ore5840.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "511284616889-uilfose5td75k3bodtgfcgm61gk5qk2a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tiktokappclone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
